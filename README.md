@@ -9,7 +9,6 @@
 - **Data Science & Machine Learning**: PyTorch, Numpy, Pandas, Matplotlib
 - **Web Development**: HTML, CSS
 - **Databases**: SQL, PL/SQL, Oracle SQL Developer
-- **Development Tools**: Git, GitHub
 
 
 <!---
