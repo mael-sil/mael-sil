@@ -3,7 +3,7 @@
 ## 🔍 À propos de moi
 - 📚 Étudiant en BUT Informatique
 - 🧪 Formation précédente en physique
-- 🔭 Actuellement en recherche de stage (juin-août 2025) et alternance (à partir de septembre 2025)
+- 🔭 Actuellement en recherche d'alternance (à partir de septembre 2025)
 - 🌍 Basé à Lyon, France
 
 ## 🛠️ Technologies & Compétences
